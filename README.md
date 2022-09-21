@@ -34,7 +34,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/Screenshot.png)
+![Example screenshot](./Screenshot.png)
 
 ## Setup
 You only need to clone the repo and follow the instructions below!
